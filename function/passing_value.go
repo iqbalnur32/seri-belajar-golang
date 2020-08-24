@@ -31,7 +31,7 @@ func ParamsPedagangInterface(result interface{}) {
 	data := result.(*Pedagang)
 	*data = Pedagang{
 		ID: "1",
-		Nama: "Sutanso",
+		Nama: "Sutanso Susan",
 		Jualan : "Pengusaha Mineral",
 	}
 }
